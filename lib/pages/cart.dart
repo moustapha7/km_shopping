@@ -32,7 +32,6 @@ class _CartState extends State<Cart> {
               child: new MaterialButton(onPressed: () {},
               child: new Text("check out ", style: TextStyle(color: Colors.white)),
               color: Colors.blue,),
-
             )
           ],
         ),
